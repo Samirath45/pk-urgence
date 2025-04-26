@@ -1,0 +1,18 @@
+/* src/components/ReviewList.css */
+.star-rating {
+    margin-top: 5px;
+  }
+  
+  .star-rating i {
+    margin-right: 3px;
+  }
+  
+  ListGroupItem {
+    background-color: #fff;
+    border-radius: 8px;
+  }
+  
+  ListGroupItem strong {
+    color: #1791c8;
+  }
+  
