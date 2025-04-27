@@ -13,7 +13,7 @@ function Header() {
             <img
               src={logo} // Chemin du logo correctement défini
               alt="Parakou Vibe Logo"
-              style={{ height: "50px", width: "auto" }}
+              style={{ height: "60px", width: "auto" }}
               className="me-2"
             />
           <h1 className="m-0">Parakou Vibe</h1>
